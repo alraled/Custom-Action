@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="8bf0a93b-c00c-4fc1-9273-f905fc0b937e" 
+        solutionId="8bf0a93b-c00c-4fc1-9273-f905fc0b937e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Laboratorio_Custom_Action"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="81c87b4d-1e86-44ce-b83d-99414cba0a0f" />
+  </features>
+</package>
